@@ -1,0 +1,5 @@
+PictureViewer = 27, 142, 657, 650, , 44, 44, 549, 492, C
+frmPicture = 48, 108, 679, 630, C, 110, 110, 615, 558, C
+PictureViewerMod = 53, 30, 558, 478, C
+frmAbout = 176, 176, 701, 616, C, 154, 154, 679, 594, C
+ModGetVolName = 132, 132, 601, 529, C
